@@ -1,6 +1,6 @@
-// Source : https://leetcode.com/problems/reverse-string/
+// Source : https://leetcode.com/problems/maximum-depth-of-binary-tree/
 // Author : Xiao Hu
-// Date   : 2016-05-25
+// Date   : 2016-05-26
 
 /********************************************************************************** 
 * 
