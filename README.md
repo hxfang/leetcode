@@ -3,6 +3,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [javascript](./algorithms/minimumDepthOfBinaryTree.js)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [javascript](./algorithms/maximumDepthOfBinaryTree.js)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [javascript](./algorithms/intersectionOfTwoArrays.js)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [javascript](./algorithms/topKFrequentElements.js)|Medium|
