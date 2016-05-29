@@ -3,6 +3,10 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|100|[Same Tree](https://leetcode.com/problems/same-tree/) | [javascript](./algorithms/sameTree.js)|Easy|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [javascript](./algorithms/binaryTreeZigzagLevelOrderTraversal.js)|Medium|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [javascript](./algorithms/binaryTreeLevelOrderTraversalII.js)|Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [javascript](./algorithms/binaryTreeLevelOrderTraversal.js)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [javascript](./algorithms/minimumDepthOfBinaryTree.js)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [javascript](./algorithms/maximumDepthOfBinaryTree.js)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [javascript](./algorithms/intersectionOfTwoArrays.js)|Easy|
